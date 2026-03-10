@@ -267,7 +267,8 @@ pip install -r requirements.txt
 ### 4️⃣ 数据处理
 
 ```bash
-python Script/purify.py
+python Script/purify_character_data.py   //数据清洗
+python Script/json_to_sql.py             //数据入库
 ```
 
 ### 5️⃣ 启动服务
