@@ -310,6 +310,9 @@ python run.py
 愿此行，终抵群星。
 
 ---
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。详情请查看仓库中的 [LICENSE](LICENSE) 文件。
 
 ## 📄 数据来源
 
