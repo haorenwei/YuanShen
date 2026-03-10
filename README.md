@@ -42,7 +42,7 @@
 ## 📂 项目结构
 
 ```
-YuanShen
+YS-Abyss-DataViz
 │
 ├── app/                    # Flask 后端应用
 │   ├── models/             # 数据模型 (SQLAlchemy)
@@ -242,8 +242,8 @@ python Script/json_to_sql.py
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/yourname/YuanShen.git
-cd YuanShen
+git clone https://github.com/yourname/YS-Abyss-DataViz.git
+cd YS-Abyss-DataViz
 ```
 
 ### 2️⃣ 安装依赖
@@ -256,7 +256,7 @@ pip install -r requirements.txt
 
 创建数据库：
 
-- `yuanshen`
+- `YS-Abyss-DataViz`
 
 修改配置文件：
 
