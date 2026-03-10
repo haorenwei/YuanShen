@@ -261,7 +261,7 @@ pip install -r requirements.txt
 
 填写 MySQL 连接信息。
 
-### 4️⃣ 数据处理（可选）
+### 4️⃣ 数据处理
 
 ```bash
 python Script/purify.py
