@@ -256,7 +256,7 @@ pip install -r requirements.txt
 
 创建数据库：
 
-- `YS-Abyss-DataViz`
+- `YuanShen`
 
 修改配置文件：
 
